@@ -11,3 +11,5 @@ The following are used in the project, but not included:
 <li>An “input” folder in the source directory which contains a variety of midi files to be inputted into the project</li>
 <li>An “output” folder in the source directory which contains all of the outputs from the program as midi files</li>
 </ul>
+
+A sample output "sample.mp3" has been included. This is a midi output from the program rendered using LABS Audio Soft Piano.
